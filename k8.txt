@@ -1,0 +1,7 @@
+Fit Error: 26639.636
+Gamma: 30544.628 +- 2643.545
+kx: 10497.581 +- 4288.305 ms-1
+ky: 30544.628 +- 3749.330 ms-1
+Radial Velocity: 517.176 +- 4.288 kms-1
+Mass Function: 4.932 +- 0.123 solar masses
+Mass Object: 6.011 +- 0.126 solar masses
